@@ -1,0 +1,19 @@
+.tmp {
+
+    height: 400px;
+    width: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 10%;
+    width: 15%;
+    left: 15%;
+    right: 15%;
+    border-radius: 15px;
+    float: left
+}
+
+.JS {
+    position: relative;
+    vertical-align: middle
+
+}
